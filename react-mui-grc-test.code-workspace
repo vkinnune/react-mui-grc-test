@@ -1,10 +1,10 @@
 {
   "folders": [
-	{
-		"name": "react-mui-grc-test",
-		"path": "."
-	}
-],
+    {
+      "name": "react-mui-grc-test",
+      "path": "."
+    }
+  ],
   "settings": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true,
