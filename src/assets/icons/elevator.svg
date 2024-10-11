@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <circle cx="16" cy="13.25" r="1.75" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="8" cy="13.25" r="1.75" stroke="currentColor" strokeWidth="1.875"/>
+  <path stroke="currentColor" strokeWidth="2" d="M5.5 22L5.93747 19.3794C5.99931 19.009 6.16679 18.6642 6.41979 18.3866C6.78941 17.9811 7.31274 17.75 7.86145 17.75H8.15003C8.69249 17.75 9.2109 17.9739 9.5828 18.3688C9.85462 18.6575 10.0329 19.0215 10.0943 19.4132L10.5 22"/>
+  <path stroke="currentColor" strokeWidth="2" d="M13.5 22L13.9375 19.3794C13.9993 19.009 14.1668 18.6642 14.4198 18.3866C14.7894 17.9811 15.3127 17.75 15.8615 17.75H16.15C16.6925 17.75 17.2109 17.9739 17.5828 18.3688C17.8546 18.6575 18.0329 19.0215 18.0943 19.4132L18.5 22"/>
+  <path stroke="currentColor" strokeWidth="2" d="M2 9.5C2 8.67157 2.67157 8 3.5 8H20.5C21.3284 8 22 8.67157 22 9.5V20.5C22 21.3284 21.3284 22 20.5 22H3.5C2.67157 22 2 21.3284 2 20.5V9.5Z"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.875" d="M10.5 4.25L7.99998 1.74998L5.49997 4.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.875" d="M13.5 1.75L16 4.25002L18.5 1.75"/>
+</svg>

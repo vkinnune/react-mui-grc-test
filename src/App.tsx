@@ -1,20 +1,19 @@
-import React from "react";
-import { ThemeProvider } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import theme from "./theme";
-import { Container, Typography } from "@mui/material";
+import { Container, SvgIcon } from '@mui/material'
+import LogoIcon from './assets/logo/IconLogo.svg'
 
 function App() {
   return (
-    <ThemeProvider theme={theme}>
-      <CssBaseline />
-      <Container>
-        <Typography variant="h4" component="h1" gutterBottom>
-          Welcome to My Vite + React + MUI App
-        </Typography>
-      </Container>
-    </ThemeProvider>
-  );
+    <Container
+      maxWidth={false} // Disable the maxWidth to allow full width
+      disableGutters // Remove the default padding
+      sx={{
+        width: '100vw', // Set width to 100% of the viewport width
+        height: '100vh', // Set height to 100% of the viewport height
+      }}
+    >
+      <SvgIcon component={LogoIcon} />
+    </Container>
+  )
 }
 
-export default App;
+export default App

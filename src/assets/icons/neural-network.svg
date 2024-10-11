@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <circle cx="12" cy="20" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="12" cy="4" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="4" cy="12" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="5" cy="5" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="19" cy="19" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="5" cy="19" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="19" cy="5" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <circle cx="20" cy="12" r="2" stroke="currentColor" strokeWidth="1.875"/>
+  <path stroke="currentColor" strokeWidth="2" d="M12 18L12 6"/>
+  <path stroke="currentColor" strokeWidth="2" d="M6.375 6.375L8.56066 8.56066C8.84197 8.84196 9 9.2235 9 9.62132L9 14.3787C9 14.7765 8.84197 15.158 8.56066 15.4393L6.5 17.5"/>
+  <path stroke="currentColor" strokeWidth="2" d="M17.625 6.375L15.4393 8.56066C15.158 8.84196 15 9.2235 15 9.62132L15 14.3787C15 14.7765 15.158 15.158 15.4393 15.4393L17.5 17.5"/>
+  <path stroke="currentColor" strokeWidth="2" d="M9 12H6"/>
+  <path stroke="currentColor" strokeWidth="2" d="M18 12H15"/>
+</svg>

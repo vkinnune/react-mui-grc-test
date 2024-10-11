@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" strokeWidth="2" d="M5.75 14.25L5.29549 14.7045C4.78615 15.2139 4.5 15.9047 4.5 16.625C4.5 17.3453 4.78615 18.0361 5.2955 18.5455L7.46707 20.7171C8.76873 22.0187 10.5342 22.75 12.375 22.75C14.2158 22.75 15.9813 22.0187 17.2829 20.7171L20.25 17.75"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M16 2.25V1.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M21.1928 4.55672L21.8999 3.84961"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M18.9298 2.78618L19.3125 1.8623"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M2.4276 7.12357L1.5 6.75"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M6.43229 3.05679L6.04053 2.13672"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="1.875" d="M3.92595 4.58781L3.21191 3.8877"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M16.4999 9.7497L15.3623 8.6122C14.6789 7.92878 14.6789 6.82074 15.3623 6.13733L15.3875 6.11217C16.0709 5.42877 17.1789 5.42875 17.8623 6.11214L19.9669 8.21656C21.2686 9.51824 21.9999 11.2837 21.9999 13.1246V13.7015C21.9999 15.173 21.4154 16.5842 20.3749 17.6246C19.3344 18.6651 17.9233 19.2496 16.4518 19.2496H14.8441C12.3955 19.2496 10.0468 18.2788 8.31289 16.5499L5.11598 13.3622C4.43088 12.6791 4.44173 11.558 5.12582 10.8739C5.80923 10.1905 6.92895 10.1788 7.61238 10.8622L10.9999 14.2497"/>
+  <path stroke="currentColor" strokeLinecap="square" strokeWidth="2" d="M14.7502 7.99975L12.1127 5.36217C11.4292 4.67876 10.3212 4.67875 9.6378 5.36216L9.61267 5.38729C8.92924 6.0707 8.92924 7.17875 9.61266 7.86217L12.0002 10.2497"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M11.0002 14.2497L6.11266 9.36217C5.42924 8.67876 5.42924 7.57072 6.11266 6.8873L6.13779 6.86217C6.82121 6.17875 7.92924 6.17876 8.61266 6.86217L12.7502 10.9997"/>
+</svg>

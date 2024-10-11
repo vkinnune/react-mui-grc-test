@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M15.625 16C15.0131 16.3522 14.344 16.5941 13.6484 16.7146L13.3344 16.7689C12.4514 16.9218 11.5487 16.9218 10.6657 16.7689L10.3516 16.7145C9.65597 16.5941 8.9869 16.3522 8.375 16"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M12.5 8.25V10.7978C12.5 11.3169 12.2933 11.8146 11.9255 12.1809C11.5596 12.5454 11.0642 12.75 10.5478 12.75H10.5"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M7.25 2.75H4.25C3.42157 2.75 2.75 3.42157 2.75 4.25V7.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M16.75 2.75H19.75C20.5784 2.75 21.25 3.42157 21.25 4.25V7.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M2.75 16.75L2.75 19.75C2.75 20.5784 3.42157 21.25 4.25 21.25L7.25 21.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="2" d="M21.25 16.75L21.25 19.75C21.25 20.5784 20.5784 21.25 19.75 21.25L16.75 21.25"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="3" d="M7.75 7.7251V7.77509"/>
+  <path stroke="currentColor" strokeLinecap="round" strokeWidth="3" d="M16.25 7.7251V7.77509"/>
+</svg>
