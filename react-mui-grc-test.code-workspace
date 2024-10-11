@@ -1,0 +1,27 @@
+{
+  "folders": [
+	{
+		"name": "react-mui-grc-test",
+		"path": "."
+	}
+],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.rulers": [80],
+    "eslint.probe": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "eslint.rules.customizations": [
+      {
+        "rule": "*",
+        "severity": "warn"
+      }
+    ],
+    "eslint.useFlatConfig": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}
