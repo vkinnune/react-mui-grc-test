@@ -1,8 +1,9 @@
-import { Container, SvgIcon, ThemeProvider } from '@mui/material'
+import { Button, Container, SvgIcon, ThemeProvider } from '@mui/material'
 import LogoIcon from './assets/logo/IconLogo.svg'
 import Home from './assets/icons/Home.svg'
 import Tiles from './assets/icons/Tiles.svg'
 import FullLogo from './assets/logo/FullLogo.svg'
+import { grey } from '@mui/material/colors'
 import theme from './theme'
 
 function App() {
@@ -22,15 +23,15 @@ function App() {
       >
         <Container>
           <SvgIcon
-            component={Tiles}
+            component={Home}
             inheritViewBox
+            color="inherit"
             style={{
               width: '100%',
               height: '100%',
               maxWidth: '100%',
               maxHeight: '100%',
               fill: 'none',
-              stroke: 'red',
             }}
           />
         </Container>
@@ -38,6 +39,7 @@ function App() {
           <SvgIcon
             component={FullLogo}
             inheritViewBox
+            color="secondary"
             style={{
               width: '100%',
               height: '100%',
@@ -58,6 +60,22 @@ function App() {
               fill: 'none',
             }}
           />
+        </Container>
+        <Container
+          sx={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+            flexDirection: 'row',
+            width: '100%',
+            height: '300px',
+            maxWidth: '100%',
+            maxHeight: '100%',
+          }}
+        >
+          <Button variant="outlined" size="small" color="secondary">
+            Grey Button
+          </Button>
         </Container>
       </Container>
     </ThemeProvider>
