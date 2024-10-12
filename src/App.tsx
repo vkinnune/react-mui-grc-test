@@ -3,7 +3,6 @@ import LogoIcon from './assets/logo/IconLogo.svg'
 import Home from './assets/icons/Home.svg'
 import Tiles from './assets/icons/Tiles.svg'
 import FullLogo from './assets/logo/FullLogo.svg'
-import { grey } from '@mui/material/colors'
 import theme from './theme'
 
 function App() {
@@ -22,18 +21,7 @@ function App() {
         }}
       >
         <Container>
-          <SvgIcon
-            component={Home}
-            inheritViewBox
-            color="inherit"
-            style={{
-              width: '100%',
-              height: '100%',
-              maxWidth: '100%',
-              maxHeight: '100%',
-              fill: 'none',
-            }}
-          />
+          <SvgIcon component={LogoIcon} inheritViewBox color="inherit" />
         </Container>
         <Container>
           <SvgIcon
