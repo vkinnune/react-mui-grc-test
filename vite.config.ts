@@ -8,6 +8,7 @@ export default {
       include: '**/*.svg',
       exclude: '',
       svgrOptions: {
+        dimensions: false, // Removes width and height attributes, keeps viewBox intact
         plugins: ['@svgr/plugin-svgo', '@svgr/plugin-jsx'],
         svgoConfig: {
           floatPrecision: 2,

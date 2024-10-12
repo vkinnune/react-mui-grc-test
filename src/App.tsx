@@ -1,6 +1,7 @@
 import { Container, SvgIcon, ThemeProvider } from '@mui/material'
 import LogoIcon from './assets/logo/IconLogo.svg'
 import Home from './assets/icons/Home.svg'
+import Tiles from './assets/icons/Tiles.svg'
 import FullLogo from './assets/logo/FullLogo.svg'
 import theme from './theme'
 
@@ -21,13 +22,15 @@ function App() {
       >
         <Container>
           <SvgIcon
-            component={LogoIcon}
+            component={Tiles}
             inheritViewBox
             style={{
               width: '100%',
               height: '100%',
               maxWidth: '100%',
               maxHeight: '100%',
+              fill: 'none',
+              stroke: 'red',
             }}
           />
         </Container>
