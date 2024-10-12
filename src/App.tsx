@@ -21,7 +21,7 @@ function App() {
         }}
       >
         <Container>
-          <SvgIcon component={LogoIcon} inheritViewBox color="inherit" />
+          <SvgIcon color="primary" component={LogoIcon} inheritViewBox />
         </Container>
         <Container>
           <SvgIcon
